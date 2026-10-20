@@ -6,15 +6,7 @@
     "avatar": "https://raw.githubusercontent.com/SuwaBananako/PersonalPortfolio/main/images/1792507229246_avatar.jpg",
     "avatarText": "S"
   },
-  "projects": [
-    {
-      "id": "demo2",
-      "title": "示例网站项目",
-      "desc": "使用 GitHub Token 登录即可实时管理作品",
-      "type": "web",
-      "image": ""
-    }
-  ],
+  "projects": [],
   "artworks": [
     {
       "id": "1792507531600_0",
