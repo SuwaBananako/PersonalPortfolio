@@ -8,13 +8,6 @@
   },
   "projects": [
     {
-      "id": "demo1",
-      "title": "示例游戏项目",
-      "desc": "点击右下角\"管理\"登录后可添加你自己的作品",
-      "type": "game",
-      "image": ""
-    },
-    {
       "id": "demo2",
       "title": "示例网站项目",
       "desc": "使用 GitHub Token 登录即可实时管理作品",
